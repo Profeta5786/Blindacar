@@ -1,5 +1,8 @@
+# Segredos: nunca versionar (o modelo .env.example fica no repositório)
+.env*
+!.env.example
+
+# Dependências e ficheiros locais
 node_modules/
-.env
-.env.local
-.vercel
+.vercel/
 .DS_Store

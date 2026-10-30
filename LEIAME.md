@@ -18,3 +18,6 @@ App para condutores em Espanha: radares, avisos da comunidade (polícia, control
 1. Testar o Ojocar na estrada.
 2. Juntar as funções do Ojocar ao Blindacar (login + pagamento + base de dados Supabase em vez do ntfy).
 3. Coordenadas reais das cabinas de Pamplona.
+
+## Segurança, deploy e fluxo de trabalho
+Ver `README.md`: variáveis de ambiente (só nomes), deploy automático Git → Vercel e fluxo com uma branch por tarefa + pull request.
